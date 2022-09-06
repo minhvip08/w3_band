@@ -375,6 +375,10 @@ html{
     line-height: 1.5;
 }
 
+.contact-infor a{
+    color: #757575;
+}
+
 .contact-infor i[class*="ti-"]{
     width: 30px;
     display: inline-block;
